@@ -6,9 +6,9 @@
     "type": "offline"
   },
   "server": {
-    "ip": "slobos13.aternos.me",
-    "port": 29195,
-    "version": "1.21.1"
+    "ip": "Craftland07.aternos.me",
+    "port": 50674,
+    "version": "1.21.1 (133)"
   },
   "position": {
     "enabled": true,
